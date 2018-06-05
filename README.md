@@ -1,5 +1,7 @@
 # iOS-archive-with-jenkins
 iOS archive with jenkins & fastlane
+upload file to pgyer
+send mail to your team members
 
 
 Please to my blogs 
